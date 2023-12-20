@@ -1,2 +1,1 @@
-git awesome
-git awesome
+git is awesome
